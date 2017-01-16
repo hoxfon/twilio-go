@@ -11,7 +11,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/ttacon/libphonenumber"
+	"github.com/fabriziomoscon/libphonenumber"
 )
 
 type PhoneNumber string
